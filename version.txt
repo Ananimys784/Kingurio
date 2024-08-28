@@ -1,2 +1,2 @@
-kingurio v1.6.1.0
+kingurio v1.6.1.0.exe
 test.txt
