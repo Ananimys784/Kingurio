@@ -5,3 +5,5 @@ Xchat server v1.1.1.0.exe
 Xchat server v1.0.0.0.exe
 Xchat v1.0.1.0.exe
 Xchat v1.0.0.0.exe
+test1.exe
+test2.exe
