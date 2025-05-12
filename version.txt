@@ -5,5 +5,7 @@ kingurio v1.6.0.0.exe
 kingurio v1.5.0.0.exe
 Xchat server v1.1.1.0.exe
 Xchat server v1.0.0.0.exe
+Xchat server v2.0.0.0.exe
+Xchat v2.0.0.0.exe
 Xchat v1.0.1.0.exe
 Xchat v1.0.0.0.exe
